@@ -15,25 +15,15 @@ Este é um sistema bancário simples desenvolvido em Python que permite aos usu�
 
 O limite de saque é de R$ 500,00 por transação. O número máximo de saques diários é 3. O sistema só aceita valores positivos tanto para depósitos quanto para saques. O saldo atual é exibido ao consultar o extrato.
 
-## Exemplo de Uso
+
 
 O menu principal apresenta as seguintes opções:
 
-[D] - Depositar [S] - Sacar [E] - Extrato [Q] - Sair
+[D] - Depositar
+[S] - Sacar 
+[E] - Extrato 
+[Q] - Sair
 
-### Exemplo de Depósito
-
-=> D Quanto deseja depositar? 100.00
-
-### Exemplo de Saque
-
-=> S Quanto deseja sacar? 200.00
-
-### Exemplo de Extrato
-
-=> E
-
-================ EXTRATO ================ Depósito: R$ 100.00 Saque: R$ 50.00 ========================================= Saldo Atual: R$ 50.00 =========================================
 
 ## Como Executar
 
