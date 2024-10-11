@@ -19,10 +19,7 @@ O limite de saque é de R$ 500,00 por transação. O número máximo de saques d
 
 O menu principal apresenta as seguintes opções:
 
-[D] - Depositar 
-[S] - Sacar 
-[E] - Extrato 
-[Q] - Sair
+[D] - Depositar [S] - Sacar [E] - Extrato [Q] - Sair
 
 ### Exemplo de Depósito
 
@@ -36,12 +33,7 @@ O menu principal apresenta as seguintes opções:
 
 => E
 
-================ EXTRATO ================ 
- Depósito: R$ 100.00 
- Saque: R$ 50.00 
- ========================================= 
- Saldo Atual: R$ 50.00
- =========================================
+================ EXTRATO ================ Depósito: R$ 100.00 Saque: R$ 50.00 ========================================= Saldo Atual: R$ 50.00 =========================================
 
 ## Como Executar
 
