@@ -1,3 +1,39 @@
+# Sistema Bancário em Python - Versão 2.0
+
+Este é um sistema bancário em Python que permite realizar operações básicas como depósitos, saques, consultas de extrato, além de funcionalidades novas para criar e listar contas e cadastrar usuários.
+
+## Funcionalidades
+- **Depositar**: Adiciona fundos à conta.
+- **Sacar**: Realiza saques com limite de R$ 500,00 por transação e máximo de 3 saques diários.
+- **Extrato**: Exibe todas as transações e o saldo atual.
+- **Nova Conta**: Cria uma nova conta para um usuário.
+- **Listar Contas**: Lista todas as contas cadastradas.
+- **Novo Usuário**: Cadastra um novo usuário no sistema.
+- **Sair**: Encerra o sistema.
+
+### Menu Principal:
+[D] - Depositar [S] - Sacar [E] - Extrato [NC] - Nova conta [LC] - Listar contas [N] - Novo usuário [Q] - Sair
+
+
+## Como Executar
+1. Tenha o Python instalado.
+2. Baixe o código deste repositório.
+3. Execute `sistema_bancario.py` no terminal ou IDE:
+   ```bash
+   python sistema_bancario.py
+Melhorias Futuras
+Implementar autenticação de usuário.
+Adicionar transferências entre contas.
+Criar interface gráfica.
+Contribuições
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
+
+Licença
+Este projeto é licenciado sob a MIT License.
+
+
+
+
 # Sistema Bancário em Python - Versão 1.0
 
 ## Descrição
