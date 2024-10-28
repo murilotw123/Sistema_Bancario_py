@@ -21,14 +21,19 @@ Este é um sistema bancário em Python que permite realizar operações básicas
 3. Execute `sistema_bancario.py` no terminal ou IDE:
    ```bash
    python sistema_bancario.py
-Melhorias Futuras
+
+
+   
+## Melhorias Futuras
 Implementar autenticação de usuário.
 Adicionar transferências entre contas.
 Criar interface gráfica.
-Contribuições
+
+## Contribuições
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
-Licença
+
+## Licença
 Este projeto é licenciado sob a MIT License.
 
 
